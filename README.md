@@ -20,7 +20,14 @@
 
 I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination. 
 
-So, let's embrace the journey together, as it’s the experiences along the way that make our growth truly valuable.
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h3 style="display: inline-block">So,.</h3>
+    <h3 style="display: inline-block">let's embrace the journey together, as it’s the experiences along the way that make our growth truly valuable.</h3>
+  </ul>
+</div>
+
 
 <h2>🚀 &nbsp;Skills and Tools</h2>
 
