@@ -6,7 +6,7 @@
 <div>
     <h4 align="center">
         My name is <strong>Ayah Abu Thib</strong>, and I'm a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. I am deeply passionate about data science, and I constantly strive to expand my knowledge and skills.
-       </br>Here are some things about me:
+        </br>Here are some things about me:
     </h4>
 </div>
 <br>
@@ -18,15 +18,19 @@
 * 💻 Participated in multiple **team-based competitions**, including the **Tahaluf Al Emarat Technical Solutions** event using Shallow Machine Learning techniques.
 * ♟️ I love **playing chess** and continuously challenge myself with new strategies in the game.
 
-I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination. 
+<div style="background-color: pink; padding: 15px; border-radius: 5px;"">
+    <p>
+        I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination.
+    </p>
+</div>
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <h3 style="display: inline-block">So,.</h3>
     <h3 style="display: inline-block">let's embrace the journey together, as it’s the experiences along the way that make our growth truly valuable.</h3>
   </ul>
 </div>
+
 
 
 <h2>🚀 &nbsp;Skills and Tools</h2>
