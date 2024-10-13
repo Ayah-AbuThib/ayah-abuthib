@@ -113,7 +113,6 @@ I believe that every piece of information acquired today becomes a treasure of k
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn Profile"/>
     </a>
     <a href="https://github.com/Ayah-AbuThib" target="_blank" style="margin-right: 15px;">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Profile"/>
     </a>
     <a href="mailto:AyahAbuThib@gmail.com" target="_blank">
         <img height="50" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Email"/>
