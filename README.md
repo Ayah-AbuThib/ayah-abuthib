@@ -37,7 +37,7 @@
 
 ### 🖥️ Programming Languages
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
@@ -46,7 +46,7 @@
 
 ### 📊 Data Science & Machine Learning
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/>
 <img src="https://matplotlib.org/3.1.1/_images/sphx_glr_logos2_003.png" width="160" height="40" alt="Matplotlib"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
@@ -59,20 +59,20 @@
 
 ### 📈 Data Visualization
 <p align="left">
-    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="50" height="45"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="50" height="45"/>
     <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol-1024x576.png" width="100" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100" height="20"/>
 </p>
 
 ### 📐 Statistics and Probability
 <p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/2636/2636334.png" width="45" height="45" alt="Statistics"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/2636/2636334.png" width="45" height="45" alt="Statistics"/>
     <img src="https://cdn1.iconfinder.com/data/icons/statistical-analysis-4/512/Probability-businessanalysis-dice-possible-dicethrowing-512.png" width="45" height="45" alt="Probability"/>
 </p>
 
 ### 🔧 Hardware & Verification
 <p align="left">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" width="45" height="45"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" width="45" height="45"/>
     <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-1024x1024-wi2lz7tf.png" width="45" height="45"/>
     <img src="https://www.rachip.com/wp-content/uploads/2020/01/UVM_Logo.jpg" width="45" height="45"/>
 </p>
@@ -80,7 +80,7 @@
 
 ### 🌐 Web Development
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
@@ -89,7 +89,7 @@
 
 ### 🛠️ Software & Tools
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <!-- Version Control with Git -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <!-- Version Control with Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="45" height="45"/>
