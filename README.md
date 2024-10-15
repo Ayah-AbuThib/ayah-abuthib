@@ -4,29 +4,15 @@
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 <div>
-    <h4 align="center">
-        My name is <strong>Ayah Abu Thib</strong>, and I'm a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. I am deeply passionate about data science and constantly strive to expand my knowledge and skills.
-        </br>Here are a few things about me:
-    </h4>
-</div>
-<br>
-
-<ul>
-    <li>🌟 <strong>Graduated</strong> from Arab American University with a <strong>4.5-year</strong> bachelor's degree in Computer Systems Engineering.</li>
-    <li>💻 Achieved an <strong>evaluation</strong> of <strong>92.28</strong></span> in Data Scientist at <a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</li>
-    <li>🔍 Currently exploring <strong>MLOps</strong> and <strong>LLMs</strong> to enhance my expertise in machine learning and AI.</li>
-    <li>♟️ I love <strong>playing chess</strong> and continuously challenge myself with new strategies in the game.</li>
-</ul>
-
-<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
-    <p>
-        I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow🗝️. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination.
-    </p>
-</div>
-
-<div id="user-content-toc" align="center">
-    <h3>So, let's embrace the journey together,</h3>
-    <h3>as it's the experiences along the way that make our growth truly valuable.</h3>
+    <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
+    <ul>
+        <li>🌟 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
+        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</strong></li>
+        <li>🔍 Currently, I'm diving into <strong>MLOps</strong> and <strong>LLMs</strong> to further enhance my expertise in machine learning and AI.</li>
+        <li>♟️ I enjoy playing chess, always challenging myself with new strategies to grow my skills.</li>
+    </ul>
+    <p>I firmly believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. 🗝️ My journey is guided by the conviction that perseverance is the key to achieving any goal, no matter how challenging the path may seem. I value the learning process and understand that the journey itself often holds more rewards than the destination.</p>
+    <p><strong>So, let's embrace the journey together, as it's the experiences along the way that truly make our growth valuable.</strong></p>
 </div>
 
 <h2>🚀 &nbsp;Skills and Tools</h2>
