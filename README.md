@@ -20,7 +20,7 @@
 
 <div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
     <p>
-        I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination.
+        I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow🗝️. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination.
     </p>
 </div>
 
