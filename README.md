@@ -5,35 +5,37 @@
 <!-- ----------------------------------------------------------------------------------------------------- -->
 <div>
     <h4 align="center">
-        My name is <strong>Ayah Abu Thib</strong>, and I'm a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. I am deeply passionate about data science, and I constantly strive to expand my knowledge and skills.
-        </br>Here are some things about me:
+        My name is <strong>Ayah Abu Thib</strong>, and I'm a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. I am deeply passionate about data science and constantly strive to expand my knowledge and skills.
+        </br>Here are a few things about me:
     </h4>
 </div>
 <br>
 
-* 🌟 **Graduated** from a 16-month training program at **Shai for AI**, specializing in machine learning, data analysis, computer vision, and natural language processing.
-* 📜 Achieved the **highest grade** of 92.28 in my evaluation at **The Learning Hub**.
-* 🔍 Currently exploring **advanced C# concepts**, including **Generics**, **Reflection**, **LINQ**, and **Async/Await** to enhance my programming capabilities.
-* 💡 Passionate about **Git**, actively studying and organizing notes for a detailed presentation on version control and collaboration.
-* 💻 Participated in multiple **team-based competitions**, including the **Tahaluf Al Emarat Technical Solutions** event using Shallow Machine Learning techniques.
-* ♟️ I love **playing chess** and continuously challenge myself with new strategies in the game.
+<ul>
+    <li>🌟 <strong>Graduated</strong> from Arab American University with a <strong>4.5-year</strong> bachelor's degree in Computer Systems Engineering.</li>
+    <li>💻 Achieved an <strong>evaluation</strong> of <strong>92.28</strong></span> in Data Scientist at <a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</li>
+    <li>🔍 Currently exploring <strong>MLOps</strong> and <strong>LLMs</strong> to enhance my expertise in machine learning and AI.</li>
+    <li>♟️ I love <strong>playing chess</strong> and continuously challenge myself with new strategies in the game.</li>
+</ul>
 
-<div style="background-color: pink; padding: 15px; border-radius: 5px;"">
+<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px;">
     <p>
         I believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. My journey is guided by a deep-seated conviction that perseverance is key to reaching any goal, no matter how challenging the path may seem. I value the learning process and know that the journey itself is often more rewarding than the destination.
     </p>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h3 style="display: inline-block">So,.</h3>
-    <h3 style="display: inline-block">let's embrace the journey together, as it’s the experiences along the way that make our growth truly valuable.</h3>
-  </ul>
+<div id="user-content-toc" align="center">
+    <h3>So, let's embrace the journey together,</h3>
+    <h3>as it's the experiences along the way that make our growth truly valuable.</h3>
 </div>
 
-
-
 <h2>🚀 &nbsp;Skills and Tools</h2>
+
+### 📐 Statistics and Probability
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn1.iconfinder.com/data/icons/statistical-analysis-4/512/Probability-businessanalysis-dice-possible-dicethrowing-512.png" width="45" height="45" alt="Probability"/>
+    &nbsp;  &nbsp;   &nbsp;  &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/2636/2636334.png" width="45" height="45" alt="Statistics"/>
+</p>
 
 ### 🖥️ Programming Languages
 <p align="left">
@@ -46,16 +48,16 @@
 
 ### 📊 Data Science & Machine Learning
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/>
-<img src="https://matplotlib.org/3.1.1/_images/sphx_glr_logos2_003.png" width="160" height="40" alt="Matplotlib"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+<img src="https://numfocus.org/wp-content/uploads/2016/07/Matplotlib_Logo_191209.png" width="45" height="45" alt="Matplotlib"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-<img src="https://optuna.org/assets/img/large_scale@3x.png" width="45" height="45" alt="Optuna"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="45" height="45"/>
 <img src="https://www.bgp4.com/wp-content/uploads/2019/08/Scikit_learn_logo_small.svg_-840x452.png" width="60" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45"/>
 </p>
+
 
 ### 📈 Data Visualization
 <p align="left">
@@ -64,11 +66,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100" height="20"/>
 </p>
 
-### 📐 Statistics and Probability
-<p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/2636/2636334.png" width="45" height="45" alt="Statistics"/>
-    <img src="https://cdn1.iconfinder.com/data/icons/statistical-analysis-4/512/Probability-businessanalysis-dice-possible-dicethrowing-512.png" width="45" height="45" alt="Probability"/>
-</p>
+
 
 ### 🔧 Hardware & Verification
 <p align="left">
@@ -78,34 +76,31 @@
 </p>
 
 
-### 🌐 Web Development
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-</p>
-
 ### 🛠️ Software & Tools
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <!-- Version Control with Git -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45"/>
+<img src="https://optuna.org/assets/img/large_scale@3x.png" width="45" height="45" alt="Optuna"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <!-- VS Code -->
 </p>
 
 <h2>🏆 &nbsp;Kaggle Competitions Participation</h2>
 
-</p>
+<ul>
+    <li>🥇 COVID-19 mRNA Vaccine Degradation Using Shallow Machine Learning - Achieved 1st place</li>
+    <li>🥇 Twitter Sentiment Analysis Using Shallow Machine Learning - Achieved 1st place</li>
+    <li>🥉 Blood Cell Images Based Classification - Achieved 3rd place</li>
+    <li>🏅 Banking Dataset Analysis and Classification - Achieved 4th place</li>
+    <li>🥉 House Price Prediction Using Regression Techniques - Achieved 3rd place</li>
+    <li>🏅 Sentiment Analysis of Movie Reviews - Ranked 10th out of 37 teams</li>
+    <li>🏅 Chest X-ray Classification Using CNN - Ranked 14th out of 33 teams</li>
+    <li>🏅 Music Genre Classification 2023|A - Ranked 19th out of 54 teams</li>
+    <li>🏅 Diamond Price Prediction - Ranked 28th out of 68 teams</li>
+</ul>
 
-* &#129351;COVID-19 mRNA Vaccine Degradation Using Shallow Machine Learning- Achieved 1st place
 
-* &#129351;Twitter Sentiment Analysis Using Shallow Machine Learning - Achieved 1st place
-
-  
-</p>
 
 <h2>📫 Let's Connect and Have a Chat!</h2>
 
