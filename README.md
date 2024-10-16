@@ -7,11 +7,11 @@
     <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
     <ul>
         <li>🌟 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
-        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></li>
-        <li>🔍 Currently, I'm diving into <strong>MLOps</strong> and <strong>LLMs</strong> to further enhance my expertise in machine learning and AI.</li>
+        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>[The Learning Hub].</strong></li>
+        <li>🔍 Currently, I'm exploring <strong>MLOps</strong> and <strong>LLMs</strong> to 🌱further enhance my expertise in machine learning and AI🤖.</li>
         <li>♟️ I enjoy playing chess, always challenging myself with new strategies to grow my skills.</li>
     </ul>
-    <p>I firmly believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. 🗝️ My journey is guided by the conviction that perseverance is the key to achieving any goal, no matter how challenging the path may seem. I value the learning process and understand that the journey itself often holds more rewards than the destination.</p>
+    <p>I firmly 🧠believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. 🗝️ My journey is guided by the conviction that perseverance is the key to achieving any goal, no matter how challenging the path may seem. I value the learning📚 process and understand that the journey itself often holds more rewards than the destination.</p>
     <p><strong>So, let's embrace the journey together, as it's the experiences along the way that truly make our growth valuable.</strong></p>
 </div>
 
@@ -73,19 +73,17 @@
 
 ### 🛠️ Software & Tools
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="50"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="45" height="45" alt="Google Colab"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" width="45" height="45" alt="Anaconda"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45"/>
-<img src="https://optuna.org/assets/img/large_scale@3x.png" width="45" height="45" alt="Optuna"/>    
-
-<img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" width="45" height="45" alt="Anaconda"/>
-
+<img src="https://avatars.githubusercontent.com/u/57251745?s=200&v=4" width="45" height="45" alt="Optuna"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <!-- VS Code -->
+
 
 </p>
 
