@@ -7,7 +7,7 @@
     <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
     <ul>
         <li>🌟 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
-        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</strong></li>
+        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></li>
         <li>🔍 Currently, I'm diving into <strong>MLOps</strong> and <strong>LLMs</strong> to further enhance my expertise in machine learning and AI.</li>
         <li>♟️ I enjoy playing chess, always challenging myself with new strategies to grow my skills.</li>
     </ul>
@@ -52,6 +52,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100" height="20"/>
 </p>
 
+### :globe_with_meridians: Web Development
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+</p>
 
 
 ### 🔧 Hardware & Verification
@@ -64,12 +73,20 @@
 
 ### 🛠️ Software & Tools
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="50"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/sondosaabed/sondosaabed/assets/65151701/25b6837f-b683-497a-98ed-955bb56804b8" alt="jupyter" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="45" height="45" alt="Google Colab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45"/>
 <img src="https://optuna.org/assets/img/large_scale@3x.png" width="45" height="45" alt="Optuna"/>    
+
+<img src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png" width="45" height="45" alt="Anaconda"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <!-- VS Code -->
+
 </p>
 
 <h2>🏆 &nbsp;Kaggle Competitions Participation</h2>
@@ -86,8 +103,6 @@
     <li>🏅 Diamond Price Prediction - Ranked 28th out of 68 teams</li>
 </ul>
 
-
-
 <h2>📫 Let's Connect and Have a Chat!</h2>
 
 <p align="left">
@@ -97,13 +112,16 @@
     <a href="https://www.linkedin.com/in/ayahabuthib" target="_blank" style="margin-right: 15px;">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn Profile"/>
     </a>
+     <a href="https://discord.com/users/1068960988759588915" target="_blank" style="margin-right: 15px;">
+        <img height="50" src="https://clipartcraft.com/images/discord-logo-transparent-drawn-1.png" alt="Discord"/>
+    </a>
     <a href="https://github.com/Ayah-AbuThib" target="_blank" style="margin-right: 15px;">
     </a>
     <a href="mailto:AyahAbuThib@gmail.com" target="_blank">
         <img height="50" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Email"/>
     </a>
     <a href="https://www.ieee.org/membership/" target="_blank" style="margin-right: 15px;">
-        <img height="50" src="https://www.ieee.org/profile/assets/images/ieee_logo_blue.png" alt="IEEE Membership"/>
+    <img height="50" src="https://www.ieee.org/profile/assets/images/ieee_logo_blue.png" alt="IEEE Membership"/>
     </a>
 </p>
 
