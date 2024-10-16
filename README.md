@@ -4,18 +4,19 @@
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 <div>
-    <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong>. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
+    <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong> 👩‍💻. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
     <ul>
-        <li>🌟 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
-        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <strong><a href="https://tlearninghub.com/" target="_blank"><strong>[The Learning Hub].</strong></li>
-        <li>🔍 Currently, I'm exploring <strong>MLOps</strong> and <strong>LLMs</strong> to 🌱further enhance my expertise in machine learning and AI🤖.</li>
+        <li>🎓 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
+        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</li>
+        <li>🔍 Currently, I'm exploring <strong>MLOps</strong> and <strong>LLMs</strong> to 🌱 further enhance my expertise in machine learning and AI 🤖.</li>
         <li>♟️ I enjoy playing chess, always challenging myself with new strategies to grow my skills.</li>
     </ul>
-    <p>I firmly 🧠believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow. 🗝️ My journey is guided by the conviction that perseverance is the key to achieving any goal, no matter how challenging the path may seem. I value the learning📚 process and understand that the journey itself often holds more rewards than the destination.</p>
-    <p><strong>So, let's embrace the journey together, as it's the experiences along the way that truly make our growth valuable.</strong></p>
+    <p align="center">I firmly 🧠 believe that every piece of information acquired today becomes a treasure of knowledge for tomorrow 🗝️. My journey is guided by the conviction that perseverance is the key to achieving any goal, no matter how challenging the path may seem. I value the learning 📚 process and understand that the journey itself often holds more rewards than the destination.</p>
+    <p align="center"><strong>So, let's embrace the journey together, as it's the experiences along the way that truly make our growth valuable.</strong></p>
 </div>
 
 <h2>🚀 &nbsp;Skills and Tools</h2>
+
 
 ### 📐 Statistics and Probability
 <p align="left">
