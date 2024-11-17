@@ -121,7 +121,7 @@
     <a href="https://github.com/Ayah-AbuThib" target="_blank" style="margin-right: 15px;">
     </a>
     <a href="mailto:AyahAbuThib@gmail.com" target="_blank">
-        <img height="50" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Email"/>
+        <img height="50" src="https://icon-library.com/images/icon-for-email/icon-for-email-21.jpg" alt="Email"/>
     </a>
     <a href="https://www.ieee.org/membership/" target="_blank" style="margin-right: 15px;">
     <img height="50" src="https://www.ieee.org/profile/assets/images/ieee_logo_blue.png" alt="IEEE Membership"/>
