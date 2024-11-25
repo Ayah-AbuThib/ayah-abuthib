@@ -7,7 +7,7 @@
     <p>I'm <strong>Ayah Abu Thib</strong>, a <strong>Data Scientist</strong> with a background in <strong>Computer Systems Engineering</strong> 👩‍💻. My passion for data science drives me to continuously expand my knowledge and skills. Here's a bit more about me:</p>
     <ul>
         <li>🎓 I graduated from <strong>Arab American University</strong> with a <strong>4.5-year bachelor's degree</strong> in Computer Systems Engineering.</li>
-        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <a href="https://tlearninghub.com/" target="_blank"><strong>The Learning Hub</strong></a>.</li>
+        <li>💻 I achieved an evaluation of <strong>92.28</strong> in Data Science at <a href="https://www.linkedin.com/company/tlearninghub/about/" target="_blank"><strong>The Learning Hub</strong></a>.</li>
         <li>🔍 Currently, I'm exploring <strong>MLOps</strong> and <strong>LLMs</strong> to 🌱 further enhance my expertise in machine learning and AI 🤖.</li>
         <li>♟️ I enjoy playing chess, always challenging myself with new strategies to grow my skills.</li>
     </ul>
